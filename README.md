@@ -185,5 +185,14 @@ npm run dev
 ### Documents were referenced and developed for this project
 
 - [Youtube](https://www.youtube.com/watch?v=PGPGcKBpAk8&t=212s)
+- [Github](https://github.com/AntonioErdeljac/next13-messenger.git)
+- [OAuth](https://github.com/settings/applications/2373439)
+- [Database](https://cloud.mongodb.com/v2/654893fcdcedf27247124bea#/clusters)
+- [CloudGoogle](https://console.cloud.google.com/apis/credentials?project=messenger-clone-404407&supportedpurview=project)
+- [Cloudinary](https://console.cloudinary.com/pm/c-c3463032f662a05c1219cd1495a89a/developer-dashboard)
+- [PusherKeys](https://dashboard.pusher.com/apps/1706389/keys)
+- [Vercel](https://vercel.com/byuns-projects/messenger-clone)
+- [Docs](https://nextjs.org/docs/pages/api-reference/create-next-app)
+- [Image](https://www.freeimages.com/photographer/maniskis12-68558)
 
 ### The source writes the readme.md file [readme.md](https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md#Modau)
